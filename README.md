@@ -1,6 +1,3 @@
-Here is a sample README file for a Blood Bank Management System:
-
----
 
 # Blood Bank Management System
 
