@@ -58,10 +58,5 @@ The Blood Bank Management System is a software application that maintains the st
 2. **Navigate the application**:
    - Use the user-friendly interface to manage donors, inventory, and requests.
 
-## Contributors
 
-- **Atharv Ashish Talathi**
-- **Jay Khabde**
-- **Darshit Mehta**
-- **Gurpreet Dhillon**
 
